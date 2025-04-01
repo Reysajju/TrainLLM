@@ -110,8 +110,8 @@ export default function ContactPage() {
                         <Mail className="h-7 w-6 text-gray-400" aria-hidden="true" />
                       </dt>
                       <dd>
-                        <a className="hover:text-gray-900" href="mailto:contact@trainllm.magnatesempire.com">
-                          contact@trainllm.magnatesempire.com
+                        <a className="hover:text-gray-900" href="mailto:sajjjad.rasool@gmail.com">
+                          sajjjad.rasool@gmail.com
                         </a>
                       </dd>
                     </div>
@@ -121,8 +121,8 @@ export default function ContactPage() {
                         <Phone className="h-7 w-6 text-gray-400" aria-hidden="true" />
                       </dt>
                       <dd>
-                        <a className="hover:text-gray-900" href="tel:+1 (555) 234-5678">
-                          +1 (555) 234-5678
+                        <a className="hover:text-gray-900" href="tel:+92 (314) 283-4340">
+                          +92 (314) 283-4340
                         </a>
                       </dd>
                     </div>
@@ -131,7 +131,7 @@ export default function ContactPage() {
                         <span className="sr-only">Location</span>
                         <MapPin className="h-7 w-6 text-gray-400" aria-hidden="true" />
                       </dt>
-                      <dd>San Francisco, CA</dd>
+                      <dd>Karachi, Sindh, Pakistan</dd>
                     </div>
                   </dl>
                 </motion.div>
