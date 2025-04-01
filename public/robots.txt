@@ -1,0 +1,20 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Block sensitive directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /internal/
+
+# Allow beneficial crawlers
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://trainllm.magnatesempire.com/sitemap.xml
